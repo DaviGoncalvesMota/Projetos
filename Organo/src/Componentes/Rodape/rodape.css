@@ -1,0 +1,22 @@
+.rodape{
+    background-color: #6278F7;
+    text-align: center;
+}
+.rodape img{
+    max-width: 100%;
+    margin-left: 100px ;
+}
+.rodape div{
+    display: flex;
+}
+.alterar{
+    margin-top: 28px;
+    width: 20px;
+    height: 20px;
+}
+.paragrafo{
+    color: white;
+    font-style: normal;
+    margin-left: 100px;
+    margin-top: 28px;    
+}

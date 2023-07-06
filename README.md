@@ -1,7 +1,9 @@
 # Projetos
 
 #Autor: Davi Gonçalves Mota
+
 #Curso: Alura
+
 #Linguagens: JavaScript
 
 #Projetos:  -Jogo Pong com JavaScript

@@ -4,11 +4,11 @@
 
 #Curso: Alura
 
-#Linguagens: JavaScript, TypeScript
+#Linguagens: JavaScript
 
 #Projetos:  -Jogo Pong com JavaScript
             -Organo com React JS
-            -Organo com React TS
+            
             
 #Ferramentas: -Vs Code
               -Node.Js

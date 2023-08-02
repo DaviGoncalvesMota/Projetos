@@ -2,9 +2,15 @@
 
 #Autor: Davi Gonçalves Mota
 
-#Curso: Alura
+#Curso: 
 
-#Linguagens: JavaScript, TypeScript
+            -Alura
+
+#Linguagens: 
+
+            -JavaScript
+            
+            -TypeScript
 
 #Projetos:  
 

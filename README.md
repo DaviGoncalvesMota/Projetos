@@ -27,6 +27,8 @@
             -Organo com React TS
             
             -Smart-Bank com React JS
+
+            -Feira com React JS
             
             
 #Ferramentas: 

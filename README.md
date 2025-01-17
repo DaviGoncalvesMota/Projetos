@@ -7,12 +7,15 @@
 #Curso: 
 
             -Alura
+            -Etec de Mauá
 
 #Linguagens: 
 
             -JavaScript
             
             -TypeScript
+
+            -PHP
 
 #Projetos:  
 
@@ -29,6 +32,8 @@
             -Smart-Bank com React JS
 
             -Feira com React JS
+
+            -CRUD usuario com PHP (Participação de Homero Passos)
             
             
 #Ferramentas: 
@@ -38,6 +43,12 @@
               -Node.Js
               
               -p5.js
+
+              -usbwebserver
+
+              -phpmyadmin
+
+              
 
 
 
